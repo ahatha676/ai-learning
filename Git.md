@@ -1,5 +1,8 @@
+<<<<<<< HEAD
 
 ```bash
+=======
+>>>>>>> 3f600445be012e5064ddb4e8be0a76a164b18195
 echo "# ai-learning" >> README.md
 git init
 git add README.md
@@ -7,7 +10,11 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ahatha676/ai-learning.git
 git push -u origin main
+<<<<<<< HEAD
 ```
+=======
+
+>>>>>>> 3f600445be012e5064ddb4e8be0a76a164b18195
 
 
 ### …or push an existing repository from the command line
